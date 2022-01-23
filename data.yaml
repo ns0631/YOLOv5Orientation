@@ -1,5 +1,5 @@
 train: ../train/images
 val: ../valid/images
 
-nc: 8
-names: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
+nc: 40
+names: ['L_N', 'L_NE', 'L_E', 'L_SE', 'L_S', 'L_SW', 'L_W', 'L_NW', 'M_N', 'M_NE', 'M_E', 'M_SE', 'M_S', 'M_SW', 'M_W', 'M_NW', 'N_N', 'N_NE', 'N_E', 'N_SE', 'N_S', 'N_SW', 'N_W', 'N_NW', 'O_N', 'O_NE', 'O_E', 'O_SE', 'O_S', 'O_SW', 'O_W', 'O_NW', 'P_N', 'P_NE', 'P_E', 'P_SE', 'P_S', 'P_SW', 'P_W', 'P_NW']
